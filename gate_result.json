@@ -1,0 +1,154 @@
+{
+  "passed": true,
+  "overall_score": 87,
+  "pptx_path": "/home/user/Test/Social_Listening_Speech_FINAL_v6.pptx",
+  "checklist": {
+    "user_code_errors": 0,
+    "engine_bug_errors": 8,
+    "warnings": 18
+  },
+  "verdict": "PASS — 可进入 S5 交付",
+  "user_code_error_detail": [],
+  "engine_bug_detail": [
+    {
+      "slide": 9,
+      "category": "peer_font_inconsistency",
+      "message": "Peer group at y≈1.95\" has inconsistent font sizes: TextBox 7=18.0pt, TextBox 8=12.0pt, TextBox 9=12.0pt",
+      "whitelist_reason": "在 ENGINE_BUG_WHITELIST 中：peer_font_inconsistency"
+    },
+    {
+      "slide": 9,
+      "category": "peer_font_inconsistency",
+      "message": "Peer group at y≈2.78\" has inconsistent font sizes: TextBox 11=18.0pt, TextBox 12=12.0pt, TextBox 13=12.0pt",
+      "whitelist_reason": "在 ENGINE_BUG_WHITELIST 中：peer_font_inconsistency"
+    },
+    {
+      "slide": 9,
+      "category": "peer_font_inconsistency",
+      "message": "Peer group at y≈3.62\" has inconsistent font sizes: TextBox 15=18.0pt, TextBox 16=12.0pt, TextBox 17=12.0pt",
+      "whitelist_reason": "在 ENGINE_BUG_WHITELIST 中：peer_font_inconsistency"
+    },
+    {
+      "slide": 9,
+      "category": "peer_font_inconsistency",
+      "message": "Peer group at y≈4.45\" has inconsistent font sizes: TextBox 19=18.0pt, TextBox 20=12.0pt, TextBox 21=12.0pt",
+      "whitelist_reason": "在 ENGINE_BUG_WHITELIST 中：peer_font_inconsistency"
+    },
+    {
+      "slide": 9,
+      "category": "peer_font_inconsistency",
+      "message": "Peer group at y≈5.28\" has inconsistent font sizes: TextBox 23=18.0pt, TextBox 24=12.0pt, TextBox 25=12.0pt",
+      "whitelist_reason": "在 ENGINE_BUG_WHITELIST 中：peer_font_inconsistency"
+    },
+    {
+      "slide": 9,
+      "category": "peer_font_inconsistency",
+      "message": "Peer group at y≈6.12\" has inconsistent font sizes: TextBox 27=18.0pt, TextBox 28=12.0pt, TextBox 29=12.0pt",
+      "whitelist_reason": "在 ENGINE_BUG_WHITELIST 中：peer_font_inconsistency"
+    },
+    {
+      "slide": 11,
+      "category": "chart_legend_overflow",
+      "message": "Legend/label 'Intelligence' overflows content area RIGHT by 0.47\"",
+      "whitelist_reason": "在 ENGINE_BUG_WHITELIST 中：chart_legend_overflow"
+    },
+    {
+      "slide": 16,
+      "category": "chart_legend_overflow",
+      "message": "Legend/label 'Stratega' overflows content area RIGHT by 0.47\"",
+      "whitelist_reason": "在 ENGINE_BUG_WHITELIST 中：chart_legend_overflow"
+    }
+  ],
+  "warnings_detail": [
+    {
+      "slide": 4,
+      "category": "text_overflow",
+      "message": "Text likely overflows box by ~17%"
+    },
+    {
+      "slide": 4,
+      "category": "dead_whitespace",
+      "message": "Content area is 68% empty (threshold: 55%)"
+    },
+    {
+      "slide": 6,
+      "category": "text_overflow",
+      "message": "Text likely overflows box by ~17%"
+    },
+    {
+      "slide": 6,
+      "category": "text_overflow",
+      "message": "Text likely overflows box by ~17%"
+    },
+    {
+      "slide": 6,
+      "category": "text_overflow",
+      "message": "Text likely overflows box by ~17%"
+    },
+    {
+      "slide": 6,
+      "category": "text_line_collision",
+      "message": "Text nearly touches separator line (gap: 0.016\")"
+    },
+    {
+      "slide": 6,
+      "category": "text_line_collision",
+      "message": "Text nearly touches separator line (gap: 0.016\")"
+    },
+    {
+      "slide": 6,
+      "category": "shape_overlap",
+      "message": "Two text shapes overlap by 33%"
+    },
+    {
+      "slide": 11,
+      "category": "dead_whitespace",
+      "message": "Content area is 68% empty (threshold: 55%)"
+    },
+    {
+      "slide": 16,
+      "category": "dead_whitespace",
+      "message": "Content area is 68% empty (threshold: 55%)"
+    },
+    {
+      "slide": 19,
+      "category": "text_overflow",
+      "message": "Text likely overflows box by ~17%"
+    },
+    {
+      "slide": 19,
+      "category": "text_overflow",
+      "message": "Text likely overflows box by ~17%"
+    },
+    {
+      "slide": 19,
+      "category": "text_overflow",
+      "message": "Text likely overflows box by ~17%"
+    },
+    {
+      "slide": 19,
+      "category": "text_line_collision",
+      "message": "Text nearly touches separator line (gap: 0.016\")"
+    },
+    {
+      "slide": 19,
+      "category": "text_line_collision",
+      "message": "Text nearly touches separator line (gap: 0.016\")"
+    },
+    {
+      "slide": 19,
+      "category": "text_line_collision",
+      "message": "Text nearly touches separator line (gap: 0.016\")"
+    },
+    {
+      "slide": 19,
+      "category": "text_line_collision",
+      "message": "Text nearly touches separator line (gap: 0.016\")"
+    },
+    {
+      "slide": 19,
+      "category": "shape_overlap",
+      "message": "Two text shapes overlap by 33%"
+    }
+  ]
+}
