@@ -122,7 +122,7 @@ La confusione con il tool operator è quella che mi capita più spesso. Il clien
 
 ## [06:00 → 07:00] BLOCCO 3 — IDENTITÀ
 
-**TRACCIA:** Rapido e affilato. Questo blocco è quasi aforistico — deve colpire e passare. Il punto centrale è che il problema del nome non è semantico: è un problema di potere organizzativo.
+**TRACCIA:** Questo blocco fa un salto rispetto ai precedenti: smette di parlare del mercato e parla direttamente alla persona in sala. Chi fa questo lavoro riconosce immediatamente l'esperienza descritta. Il punto centrale non è solo il problema del nome — è che questi sono problemi strutturali della disciplina, non fallimenti personali di chi ci lavora.
 
 **SCRIPT:**
 
@@ -132,16 +132,26 @@ La stessa competenza — lo stesso lavoro, le stesse skill, gli stessi output �
 
 Quando un mestiere non ha un nome chiaro, fatica ad avere seniority, budget, carriera, ownership, spazio decisionale.
 
-E c'è una frase che riassume questo meglio di qualsiasi slide:
+Ma voglio fermarmi un momento su questo punto, perché c'è una dimensione che non viene quasi mai nominata.
+
+Se fate questo lavoro — se siete voi quella persona nell'organizzazione che fa social listening o intelligence culturale — probabilmente sapete già di cosa sto parlando. Lo spiegate da capo ogni volta che entrate in una stanza nuova. Il vostro manager capisce quello che fate, ma non abbastanza da poterlo difendere in un board. Non c'è una scala di carriera riconosciuta per questo ruolo. Non c'è una credenziale che viaggia fuori dall'azienda in cui lavorate. Quello che avete costruito — la metodologia, il punto di vista, il sistema — esiste dentro quella struttura. Se domani cambiate contesto, ricominciamo da capo.
+
+Questo non è un vostro fallimento. È un fallimento strutturale della disciplina.
+
+Ogni professione seria ha un'infrastruttura: standard condivisi, una definizione di cosa significa fare bene il lavoro, un modo per segnalare competenza che sia leggibile fuori dal proprio contesto immediato. Il social intelligence ha operato per anni senza nessuna di queste cose.
+
+E c'è una frase che riassume questa condizione meglio di qualsiasi slide:
 
 > *"Il problema non è che il listening venga sottovalutato. È che viene riconosciuto solo quando produce una dashboard — non quando cambia una decisione."*
 
-Questa frase viene da una conversazione reale con un CMO. Mi ha detto: "Vincenzo, il vostro lavoro è eccellente — ma non so come presentarlo al board." Questo è il nodo. Non il lavoro — la narrazione del lavoro.
+Questa frase viene da una conversazione reale con un CMO. Mi ha detto: "Vincenzo, il vostro lavoro è eccellente — ma non so come presentarlo al board." Questo è il nodo. Non il lavoro — la narrazione del lavoro. E finché la disciplina non avrà un linguaggio condiviso, standard difendibili, un perimetro riconoscibile, questo problema continuerà a ricadere sulle spalle dei singoli.
 
 **NOTE RELATORE:**
-- [Pausa lunga dopo la citazione. È forse la più importante dello speech insieme alla chiusura.]
-- [L'aneddoto del CMO è reale e specifico. Aiuta l'audience a visualizzare il problema in un contesto concreto.]
-- [Transizione rapida verso il prossimo blocco — non soffermarti troppo qui.]
+- [Il momento dell'interpellazione diretta — "se fate questo lavoro" — è il più personale dell'intero speech. Rallenta. Guarda in camera. Lascia che arrivi.]
+- [La lista delle esperienze vissute ("lo spiegate da capo ogni volta") deve sembrare una lista di cose che sai per certo, non supposizioni. Perché le sai per certo.]
+- [La frase "questo non è un vostro fallimento" è liberatoria per chi la sente. Pausa prima e dopo.]
+- [L'aneddoto del CMO chiude il blocco riportando alla dimensione organizzativa — ma ora l'audience ha già capito che c'è anche una dimensione più personale.]
+- [Tono: empatico ma non sentimentale. È la voce di chi ha vissuto la stessa cosa e ha trovato un frame migliore.]
 
 **SLIDE:** 9 (chapter divider), 10 (quote)
 
@@ -161,7 +171,15 @@ La slide che vedete ha due colonne. A sinistra, ciò che non manca. A destra, ci
 
 Nella colonna destra: una tassonomia condivisa, un ruolo riconosciuto come autonomo, un linguaggio comune con la strategia di business, un perimetro dentro le decisioni che contano.
 
-Questi non sono gap di tecnologia. Sono gap di metodo e di riconoscimento organizzativo.
+Questi non sono gap di tecnologia. Sono gap di metodo e di riconoscimento — a livello organizzativo, ma anche a livello di disciplina.
+
+E qui c'è qualcosa che vale la pena dire esplicitamente, soprattutto per chi in sala fa questo lavoro ogni giorno.
+
+In Italia — ma non solo — il social intelligence è ancora una pratica implicita. Competenza diffusa ma raramente nominata come ruolo autonomo. Formazione spesso autodidatta. Ownership contesa tra social, PR, insight e agenzie. E soprattutto: nessun modo riconoscibile per segnalare competenza fuori dal proprio contesto immediato.
+
+All'estero la situazione è diversa. Esistono comunità di pratica verticali, percorsi di carriera espliciti, una definizione condivisa di cosa significa fare bene questo lavoro. In Italia siamo ancora in una fase in cui la competenza è reale ma invisibile — costruita dentro le singole organizzazioni, difficile da portare fuori.
+
+Il divario con l'estero non è di accesso ai dati. È di infrastruttura professionale.
 
 E questo porta alla distinzione più importante di questo webinar — quella tra stato reattivo e stato generativo.
 
@@ -175,9 +193,10 @@ Questo è il salto. Non è un salto tecnologico. È un salto di posizionamento �
 
 **NOTE RELATORE:**
 - [La distinzione reattivo/generativo è uno dei frame concettuali più importanti dello speech. Rallenta qui.]
+- [Il passaggio sulla "infrastruttura professionale mancante" e sul divario Italia/estero è nuovo rispetto alla versione precedente. Collegalo esplicitamente a quello che hai detto nel blocco identità — "è lo stesso problema, visto dall'altro lato".]
 - [La slide con le due colonne diagnostica/reattivo-generativo: lascia che l'audience legga, poi commenta.]
 - [La seconda citazione è potente — usala come transizione verso il metodo, non come conclusione.]
-- [Tono: non di denuncia. Di chi descrive qualcosa che conosce bene e vuole aiutare a cambiare.]
+- [Tono: non di denuncia. Di chi descrive qualcosa che conosce bene e vuole aiutare a cambiare. Il momento sull'infrastruttura professionale può essere detto con più calore — stai parlando a persone che vivono questa situazione.]
 
 **SLIDE:** 11 (chapter divider), 12 (diagnosi), 13 (reattivo→generativo), 14 (quote)
 
@@ -185,7 +204,7 @@ Questo è il salto. Non è un salto tecnologico. È un salto di posizionamento �
 
 ## [10:00 → 13:00] BLOCCO 5 — DAL DATO ALL'INSIGHT
 
-**TRACCIA:** Entrare nel metodo. Questo è il blocco più tecnico della prima metà — ma deve essere raccontato come se stessi mostrando come lavori, non come se stessi insegnando. La differenza è sottile ma cambia tutto.
+**TRACCIA:** Entrare nel metodo. Questo è il blocco più tecnico della prima metà — ma deve essere raccontato come se stessi mostrando come lavori, non come se stessi insegnando. La differenza è sottile ma cambia tutto. In più, in questo blocco il framework viene introdotto esplicitamente come risposta al "nessuno standard su cui appoggiarsi" del blocco precedente — non solo come metodo, ma come qualcosa che permette di difendere le proprie scelte metodologiche.
 
 **SCRIPT:**
 
@@ -199,11 +218,15 @@ L'insight dice: "Il brand viene associato a una tensione emergente sul servizio 
 
 Stesso dato. Due linguaggi. Due utilità completamente diverse. Il report allarma. L'insight orienta.
 
-Il secondo principio riguarda come si costruisce la domanda giusta. E uso un framework che chiamo tassonomia a tre cerchi.
+Il secondo principio riguarda come si costruisce la domanda giusta. E qui voglio introdurre qualcosa che per me è diventato uno standard di lavoro — non una teoria, ma un framework operativo che uso da anni e che condivido perché finora, in questo mestiere, standard condivisi di questo tipo quasi non esistevano.
+
+Lo chiamo tassonomia a tre cerchi. È il modo in cui organizzo ogni analisi prima ancora di aprire il tool.
 
 Il cerchio più esterno è il contesto culturale — pop culture, economia, politica, generazioni, tensioni sociali, linguaggi emergenti. Il cerchio di mezzo è l'industry e la category — competitor, occasioni d'uso, barriere, driver. Il cerchio più interno è il brand — menzioni, campagna, customer experience.
 
-L'errore più comune — l'errore che vedo fare ancora adesso dopo dodici anni — è aprire il tool e digitare il nome del brand. È come guardare la propria mano mentre si gioca a scacchi: perdi il contesto della partita.
+L'errore più comune — quello che vedo fare ancora adesso dopo dodici anni — è aprire il tool e digitare il nome del brand. È come guardare la propria mano mentre si gioca a scacchi: perdi il contesto della partita. E poi non riesci a spiegare perché il tuo dato non convince nessuno — perché manca il contesto che lo rende leggibile.
+
+Questo framework non è solo un metodo di analisi. È anche uno strumento di comunicazione: permette di difendere le scelte metodologiche, di spiegare perché si è partiti da un certo cerchio invece di un altro, di costruire un ragionamento che regge di fronte a chi non fa questo lavoro e vuole capire come sei arrivato a quella conclusione.
 
 Brandwatch è potente esattamente quanto la domanda che gli portate. Il framework decide quali cerchi accendere, e in quale ordine.
 
